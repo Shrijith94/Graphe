@@ -8,4 +8,5 @@ Nous avons réaliser les différentes représentations possibles d'un graphe:
 -Liste d'adjacence  
 -Table de hachage  
 (elles sont tous représentées par des classes).  
-Pour réaliser les tests du programme il est essentiel de predre les fichiers "graphes" et "reponses" qui permettront de réaliser l'algorithme Dikjstra sur les différents graphe qui sont dans le fichier"graphes" et de comparer les résultat obtenu par le programme avec le fichier "reponses" pour vérifier si les résultats sont corrects  
+Pour réaliser les tests du programme il est essentiel de predre les fichiers "graphes" et "reponses" qui permettront de réaliser l'algorithme Dikjstra sur les différents graphe qui sont dans le fichier"graphes" et de comparer les résultat obtenu par le programme avec le fichier "reponses" pour vérifier si les résultats sont corrects.  
+Et à la fin nous regarderons quelle est la représentation la plus rapide en terme d'éxécution du programme.
