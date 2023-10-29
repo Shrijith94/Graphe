@@ -1,5 +1,5 @@
 # Graphe
-Auteur du projet: Corentin LENCLOS, SANTHAKUMAR Shrijith, AZMANE Rania, SANTELLI Geani  
+Auteurs du projet: Corentin LENCLOS, SANTHAKUMAR Shrijith, AZMANE Rania, SANTELLI Geani  
 C'est une application en JAVA permettant de manipuler des 
 graphes. Il s'agit de déterminer le plus cour chemin possible d'un graphe pour aller par exemple d’une station du métro parisien à une 
 autre.  Pour cela nous avons utiliser l'algorithme de Diskstra 
